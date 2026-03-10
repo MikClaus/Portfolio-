@@ -92,10 +92,9 @@ This section will include examples of my practical work and testing projects.
 
 Planned sections:
 
-• Web application testing project  
-• [API testing example](https://github.com/MikClaus/manual-testing-project.git)
-• Test cases and bug reports  
-• Testing documentation
+• [manual testing example](https://github.com/MikClaus/manual-testing-project.git)
+
+• [API testing example](https://github.com/MikClaus/API_Testing_Project.git)
 
 📌 Links to GitHub repositories will be added here.
 
