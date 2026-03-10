@@ -65,19 +65,24 @@ During my QA training I practiced creating and working with common testing docum
 
 # 📚 Courses & Certificates
 
-QA Bootcamp – Software Testing Fundamentals
+QA Manual Testing Bootcamp – GoIT
 
-Topics covered during the course:
+Completed a practical course focused on the fundamentals of software testing and web application testing.
 
-• Manual testing principles  
-• Test case design  
-• Bug reporting  
-• API testing with Postman  
-• SQL basics  
-• Web application testing  
-• Test documentation
+Key topics covered:
+
+• Software testing fundamentals  
+• Software Development Life Cycle (SDLC)  
+• Types and levels of testing  
+• Test case design techniques  
+• Creating test documentation (test cases, checklists, bug reports)  
+• API testing using Postman  
+• Database testing with SQL  
+• Basics of HTML, CSS and web technologies  
+• Using tools such as Jira, TestRail, Git and Chrome DevTools
 
 📌 Certificates will be added here.
+[GoIt bootcamp certifiacte](https://github.com/MikClaus/Portfolio-/blob/main/GoIT_certificate.pdf)
 
 ---
 
